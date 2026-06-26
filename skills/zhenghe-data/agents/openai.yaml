@@ -1,0 +1,3 @@
+display_name: 郑和数据
+short_description: 抓取郑和数据商品、类目、关联视频并下载视频。
+default_prompt: 帮我用郑和数据抓商品、类目、关联视频或下载视频。
