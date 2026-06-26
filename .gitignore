@@ -1,0 +1,7 @@
+.auth/
+downloads/
+__pycache__/
+.venv/
+node_modules/
+*.pyc
+.DS_Store
