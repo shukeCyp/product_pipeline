@@ -1,0 +1,4 @@
+interface:
+  display_name: "分镜图生成"
+  short_description: "通过图片生成 API 输出分镜图和参考画面。"
+  default_prompt: "Use $storyboard-image-generator to generate storyboard images from a 15s shot table."
